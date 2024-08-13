@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Chatbot UI, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: `Yo! I'm your new disc golf oracle for this merry band of DC disc golfers. Ask my any question and I will clarify the rules, just be careful I don't roast you!`
       }
     ]);
   };
@@ -93,7 +93,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Chatbot UI, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: `Yo! I'm your new disc golf oracle for this merry band of DC disc golfers. Ask my any question and I will clarify the rules, just be careful I don't roast you!`
       }
     ]);
   }, []);
