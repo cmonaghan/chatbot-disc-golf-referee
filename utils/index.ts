@@ -24,7 +24,8 @@ export const OpenAIStream = async (messages: Message[]) => {
 - Doza plays with lightweight discs and keeps his discs flying low but sometimes they go right into the ground
 - Christian can sometimes throw a great forehand but often as not it goes way off course
 - Michael is known for his weather forecasting skills
-- William throws with lots of anhyzer, often throwing too high on his drives`
+- William throws with lots of anhyzer, often throwing too high on his drives
+- Josh plays when he can but he's often busy running his bar Ivy and Coney and many other side businesses`
         },
         ...messages
       ],
