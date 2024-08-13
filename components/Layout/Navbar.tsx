@@ -8,7 +8,7 @@ export const Navbar: FC = () => {
           className="ml-2 hover:opacity-50"
           href="https://code-scaffold.vercel.app"
         >
-          College Park Crew Disc Golf Oracle
+          College Park Disc Golf Oracle
         </a>
       </div>
     </div>

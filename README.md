@@ -1,12 +1,8 @@
-# Chatbot UI Lite
+# Disc Golf Referee Chatbot
 
-A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
+A simple chatbot using Next.js, TypeScript, and Tailwind CSS. Built using https://github.com/mckaywrigley/chatbot-ui-lite.
 
-See a [demo](https://twitter.com/mckaywrigley/status/1634549098954248193?s=46&t=AowqkodyK6B4JccSOxSPew).
-
-For an advanced version, see [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui).
-
-![Chatbot UI Lite](./public/screenshot.png)
+![Disc Golf Oracle](./public/screenshot.png)
 
 ## Features
 
